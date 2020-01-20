@@ -1,0 +1,9 @@
+.close{
+    color:white;
+  }
+  .close:hover {
+    color:red;
+  }
+.redInput {
+    border: red;
+}
